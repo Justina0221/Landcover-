@@ -1,6 +1,6 @@
 ## Cheyenne River Watershed – Oglala Lakota, South Dakota
 
-![Alt text](path/to/oglalacheyenneriver.png)
+![Alt text](oglalacheyenneriver.png)
     
 The Cheyenne River Watershed, specifically the Circle P Springs–Cheyenne River HU12 subwatershed (HUC: 101301051402), is located in southwestern South Dakota within Oglala Lakota County on the Pine Ridge Reservation.
 The watershed spans the mixed grass prairie ecoregion and lies within the larger Missouri River Basin, an essential drainage system for the central United States. The subwatershed includes segments of the Cheyenne River, 
