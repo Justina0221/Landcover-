@@ -27,3 +27,10 @@ Different colors represent distinct clusters, corresponding to various surface t
 The river corridor and associated floodplain vegetation are distinctly separated from adjacent agricultural lands and upland areas.
 The clustering reveals significant heterogeneity within the landscape, which is essential for understanding ecological patterns, water resource dynamics, and effective land management strategies.
 Together, these visualizations provide a foundation for analyzing spatial variability in vegetation, land use, and potential habitat areas within the Cheyenne River watershed.
+
+
+### Data Citation
+
+NASA (2022). HLSL30 v002 Surface Reflectance Data. https://doi.org/10.5067/HLS/HLSS30.002
+
+USGS (2020). Watershed Boundary Dataset (WBD). https://www.usgs.gov/national-hydrography/watershed-boundary-dataset
